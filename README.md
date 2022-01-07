@@ -14,6 +14,9 @@ $node index.js
 ```
 
 # Crontab
-```
 
+!! Be aware of the execute permission of your `.sh` file.
+
+```
+* * * * * /home/wesley/worksapce/SideProjects/TelegramBots/colorDog/start.sh
 ```
